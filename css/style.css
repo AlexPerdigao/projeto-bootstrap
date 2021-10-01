@@ -1,0 +1,39 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.quem-somos {
+    background: #85929E;
+    color: white;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.parceiros {
+    background-color: #7c8691;
+    color: white;
+}
+
+.titulo-1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color:lightslategray
+}
+
+.titulo-2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: darkslategray;
+}
+
+.bg-footer {
+    background-color: grey;
+}
+
+.margin-footer {
+    padding-top: 10px;
+   
+}
